@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.footer-content {
+    padding-top: 40%;
+    display: flex;  
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 1rem;  
+}
+
+.footer-content #end {
+    margin-left: auto;
+}
